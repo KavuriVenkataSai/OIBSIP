@@ -1,0 +1,84 @@
+ul {
+  margin: 1%;
+  padding: 1%;
+
+}
+
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  line-height: 1.6;
+  background-image:url('https://4.bp.blogspot.com/-8cQPBxecmGU/UdFF4_A4H9I/AAAAAAAA3do/nX0Nub3sk54/s580/6f362685a404dcb7cc70aa6ff05a34ba1371448758_full.png');
+  background-repeat: no-repeat;
+  background-attachment: MOVE;
+  background-size: cover;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  padding: 0rem;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 20px;
+}
+
+nav ul li a {
+  color: #f0f0f0;
+  text-decoration: none;
+}
+
+#hero {
+  color:#1b1818;
+  backdrop-filter:blur(5px);
+  padding: 0%;
+  text-align: center;
+
+}
+
+.btn {
+  display: inline-block;
+  background: #618ed6;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#features {
+
+  backdrop-filter:blur(5px);
+  color:#0d0c0c;
+
+}
+
+#about {
+  color:#231f1f;
+  backdrop-filter:blur(5px);
+
+}
+#contact{
+  backdrop-filter:blur(5px);
+  color:#1a1919;
+
+
+}
+
+section {
+  padding: 2rem;
+  margin: 2rem 0;
+}
+
+footer {
+  background: #333;
+  color: #efebeb;
+  padding: 0%;
+  text-align: center;
+}
